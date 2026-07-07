@@ -2,7 +2,7 @@
 
 > 在 Mac 右上角菜单栏实时查看你的 DeepSeek API 余额，再也不用登录网页查了！
 
-![截图](https://via.placeholder.com/600x40?text=截图待补充)
+![截图](screenshots/hero.svg)
 
 ---
 

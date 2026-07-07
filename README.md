@@ -122,6 +122,20 @@ chmod +x install.sh && ./install.sh
 
 ---
 
+## ☕ 请作者喝杯奶茶
+
+如果这个工具对你有帮助，欢迎请作者喝杯奶茶～ 🧋
+
+支付宝 / 微信扫码即可：
+
+![支付宝](screenshots/alipay.png) | ![微信](screenshots/wechat.png)
+:---: | :---:
+**支付宝** | **微信支付**
+
+> 💡 赞助完全是自愿的，不赞助也完全不影响使用！
+
+---
+
 ## 📄 License
 
 MIT

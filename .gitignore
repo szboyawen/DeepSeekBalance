@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Xcode / Swift Build
+.build/
+DerivedData/
+*.xcworkspace
+*.xcuserdata
+Pods/
+
+# IDE
+.idea/
+.vscode/
